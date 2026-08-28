@@ -7,8 +7,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=munjurdev&label=Profile%20Views&color=blueviolet&style=flat-square)
-![Total Views](https://komarev.com/ghpvc/?username=munjurdev&label=Total%20Views&color=ff69b4&style=flat-square)
-![Visitors](https://komarev.com/ghpvc/?username=munjurdev&label=Visitors&color=00d4aa&style=flat-square)
 
 </div>
 
@@ -93,8 +91,8 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=munjurdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munjurdev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=munjurdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=munjurdev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
@@ -104,27 +102,7 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=munjurdev&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="70%"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=munjurdev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=munjurdev&theme=dark&no-frame=true&no-bg=true&column=7" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=munjurdev&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="70%"/>
 
 </div>
 
