@@ -38,6 +38,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b output
           git add .
-          git commit -m "🐍 Update snake animation [skip ci]"
+          git commit -m "Update snake animation [skip ci]"
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git push -f origin output
