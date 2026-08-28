@@ -7,14 +7,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=munjurdev&label=Profile%20Views&color=blueviolet&style=flat-square)
-
-</div>
-
-<div align="center">
-
-![Availability](https://img.shields.io/badge/Availability-🟢%20Open%20to%20Work-0d1117?style=for-the-badge&labelColor=238636)
-![Collaboration](https://img.shields.io/badge/Collaboration-✅%20Open%20to%20Collab-0d1117?style=for-the-badge&labelColor=1f6feb)
-![Hire Me](https://img.shields.io/badge/Hire%20Me-💼%20Available-0d1117?style=for-the-badge&labelColor=8957e5)
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-238636?style=flat-square&labelColor=0d1117)
+![Open to Collaborate](https://img.shields.io/badge/✅_Open_to_Collab-1f6feb?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -22,20 +16,17 @@
 
 ## 👋 About Me
 
-> 🚀 Backend Developer | Python & Django Enthusiast | Open Source Creator
+> 🚀 Backend Engineer | Python & Django | Developer Tools & Infrastructure
 
-I build **scalable, production-ready systems** and love automating infrastructure. Passionate about **clean architecture**, **API design**, and **CI/CD automation**.
+I build **production-ready backend systems**, **developer tools**, and **scalable infrastructure**. Creator of [djboost](https://pypi.org/project/djboost/) — a PyPI-published CLI for Django.
 
-### 🔭 What I'm Working On
+- 🔧 Building **[djboost](https://github.com/munjurdev/djboost)** — Production CLI for Django (PyPI published)
+- 📚 Maintaining **[deployment-guide](https://github.com/munjurdev/deployment-guide)** — Real-world deployment knowledge
+- 🎯 Focus: **Clean Architecture** · **API Design** · **CI/CD** · **Developer Experience**
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🚀 **[djboost](https://github.com/munjurdev/djboost)** | The modern lifecycle CLI for Django — create, build, extend, validate | 🔨 Building |
-| 📚 **[deployment-guide](https://github.com/munjurdev/deployment-guide)** | Comprehensive backend & DevOps knowledge base | 📖 Maintaining |
+### 🌱 Currently Exploring
 
-### 🌱 Currently Learning
-
-`Kubernetes` `Infrastructure as Code` `AWS Advanced` `System Design`
+`Kubernetes` `Infrastructure as Code` `System Design` `Multi-tenancy` `Event-driven Architecture`
 
 ---
 
@@ -43,48 +34,41 @@ I build **scalable, production-ready systems** and love automating infrastructur
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-36ACE5?style=for-the-badge&logo=celery&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4CAF50?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | `Python` `Django` `Django REST Framework` `Celery` |
+| **Databases** | `PostgreSQL` `Redis` |
+| **Realtime** | `WebSockets` `Django Channels` |
+| **DevOps** | `Docker` `Nginx` `Linux` `GitHub Actions` `GitLab CI` |
+| **Cloud** | `AWS` `Kubernetes` `Infrastructure as Code` |
 
 </div>
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🚀 [djboost](https://github.com/munjurdev/djboost)
-The modern lifecycle CLI for Django — create, build, extend, validate, and maintain.
+Production CLI for Django — scaffolding, features, and deployment.
 
 **What it does:**
-- Production-ready Django foundation in seconds
-- 17 modular features (Docker, K8s, Celery, GraphQL, etc.)
-- Safe add/remove engine with dry-run and auto-rollback
+- Generate production-ready Django projects in seconds
+- 17+ modular features (Docker, K8s, Celery, GraphQL)
+- Safe add/remove engine with dry-run & auto-rollback
 
+[![PyPI](https://img.shields.io/pypi/v/djboost?color=3776AB&logo=pypi&logoColor=white&style=flat-square)](https://pypi.org/project/djboost/)
 ![Stars](https://img.shields.io/github/stars/munjurdev/djboost?style=social)
+![CI](https://img.shields.io/github/actions/workflow/status/munjurdev/djboost/ci.yml?branch=main&label=CI&style=flat-square)
 
 </td>
 <td width="50%">
 
 ### 📚 [deployment-guide](https://github.com/munjurdev/deployment-guide)
-Comprehensive backend & DevOps infrastructure knowledge base.
+Real-world Django deployment knowledge base.
 
 **What it covers:**
 - VPS setup, Django production, Nginx, PostgreSQL
@@ -92,6 +76,7 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 - Security hardening, monitoring, troubleshooting
 
 ![Stars](https://img.shields.io/github/stars/munjurdev/deployment-guide?style=social)
+![Pages](https://img.shields.io/github/actions/workflow/status/munjurdev/deployment-guide/pages.yml?branch=main&label=Pages&style=flat-square)
 
 </td>
 </tr>
