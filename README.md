@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:161b22&height=220&section=header&text=Munjur%20Alom&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Python%20%26%20Django%20%7C%20Developer%20Tools%20%26%20Infrastructure&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:161b22&height=220&section=header&text=Munjur%20Alom&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Python%20%7C%20Django&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=munjurdev&label=Profile%20Views&color=blueviolet&style=flat-square)
-![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-238636?style=flat-square&labelColor=0d1117)
-![Open to Collaborate](https://img.shields.io/badge/✅_Open_to_Collab-1f6feb?style=flat-square&labelColor=0d1117)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-238636?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
+![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collab-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-> 🚀 Backend Engineer | Python & Django | Developer Tools & Infrastructure
+> 🚀 Backend Engineer | Python | Django
 
 I build **production-ready backend systems**, **developer tools**, and **scalable infrastructure**. Creator of [djboost](https://pypi.org/project/djboost/) — a PyPI-published CLI for Django.
 
