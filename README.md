@@ -7,6 +7,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=munjurdev&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-4-238636?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
+![Private Repos](https://img.shields.io/badge/Private%20Repos-0-8957e5?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-238636?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collab-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 
