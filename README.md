@@ -70,7 +70,8 @@ Production CLI for Django — scaffolding, features, and deployment.
 
 [![PyPI](https://img.shields.io/pypi/v/djboost?color=3776AB&logo=pypi&logoColor=white&style=flat-square)](https://pypi.org/project/djboost/)
 ![Stars](https://img.shields.io/github/stars/munjurdev/djboost?style=social)
-![CI](https://img.shields.io/github/actions/workflow/status/munjurdev/djboost/ci.yml?branch=main&label=CI&style=flat-square&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 </td>
 <td width="50%">
