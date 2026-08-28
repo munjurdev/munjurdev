@@ -102,7 +102,7 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=munjurdev&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="70%"/>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="70%" /></a>
 
 </div>
 
