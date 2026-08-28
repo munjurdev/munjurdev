@@ -35,14 +35,20 @@ I build **production-ready backend systems**, **developer tools**, and **scalabl
 <div align="center">
 
 | Category | Technologies |
-|----------|-------------|
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Cache** | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
-| **Async** | ![Celery](https://img.shields.io/badge/Celery-36ACE5?style=flat&logo=celery&logoColor=white) |
-| **Realtime** | ![WebSocket](https://img.shields.io/badge/WebSocket-4CAF50?style=flat&logo=socketdotio&logoColor=white) ![Channels](https://img.shields.io/badge/Channels-092E20?style=flat&logo=django&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Actions](https://img.shields.io/badge/Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white) |
+|:---------|:-------------|
+| **Backend** | `Python` · `Django` · `Django REST Framework` |
+| **Databases** | `PostgreSQL` · `MySQL` |
+| **Cache & Messaging** | `Redis` |
+| **Background Tasks** | `Celery` · `Celery Beat` |
+| **Realtime** | `WebSockets` · `Django Channels` |
+| **DevOps & CI/CD** | `Docker` · `Nginx` · `Linux` · `GitHub Actions` · `GitLab CI/CD` |
+| **Cloud & Infrastructure** | `AWS` · `Kubernetes` · `Infrastructure as Code` |
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-36ACE5?style=for-the-badge&logo=celery&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-4CAF50?style=for-the-badge&logo=socketdotio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
