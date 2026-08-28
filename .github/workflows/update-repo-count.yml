@@ -42,30 +42,30 @@ jobs:
             const readme = fs.readFileSync('README.md', 'utf8');
             
             const publicCount = '${{ steps.repos.outputs.public }}';
-            const privateCount = '${{ steps.repos.outputs.private }}';
+            let privateCount = '${{ steps.repos.outputs.private }}';
             
-            // Update public repos badge
+            // Handle null/empty private count - keep manual value
+            if (!privateCount || privateCount === 'null' || privateCount === '0') {
+              console.log('⚠️ Private count not available, keeping manual value');
+              privateCount = null;
+            }
+            
+            // Update public repos badge only
             let updated = readme.replace(
               /!\[Public Repos\]\(https:\/\/img\.shields\.io\/badge\/Public%20Repos-\d+/,
               `![Public Repos](https://img.shields.io/badge/Public%20Repos-${publicCount}`
             );
             
-            // Add or update private repos badge
-            if (updated.includes('Private%20Repos')) {
+            // Only update private if we have a valid count
+            if (privateCount) {
               updated = updated.replace(
-                /!\[Private Repos\]\(https:\/\/img\.shields\.io\/badge\/Private%20Repos-\d+/,
-                `![Private Repos](https://img.shields.io/badge/Private%20Repos-${privateCount}`
-              );
-            } else {
-              // Add private repos badge after public repos badge
-              updated = updated.replace(
-                /(!\[Public Repos\]\([^)]+\))/,
-                `$1\n![Private Repos](https://img.shields.io/badge/Private%20Repos-${privateCount}-8957e5?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)`
+                /!\[Private Repos\]\(https:\/\/img\.shields\.io\/badge\/Private%20Repos-[\w%]+/,
+                `![Private Repos](https://img.shields.io/badge/Private%20Repos-${privateCount}%2B`
               );
             }
             
             fs.writeFileSync('README.md', updated);
-            console.log(`✅ Updated: Public=${publicCount}, Private=${privateCount}`);
+            console.log(`✅ Updated: Public=${publicCount}, Private=${privateCount || 'manual'}`);
 
       - name: Commit changes
         run: |
