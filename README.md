@@ -108,16 +108,6 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/munjurdev/munjurdev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
