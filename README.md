@@ -124,9 +124,18 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=munjurdev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=GitHub%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="./profile/activity-graph.svg" alt="GitHub Activity Graph" width="100%" /></a>
 
 </div>
+
+<details>
+<summary>📋 <b>How it works</b></summary>
+<br>
+
+> This graph updates automatically every 12 hours via GitHub Actions.
+> It shows your coding activity over the last 31 days.
+
+</details>
 
 ---
 
@@ -134,7 +143,7 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 
 <div align="center">
 
-<!-- ✏️ EDIT: Remove badges you haven't earned yet! Check https://github.com/munjurdev -->
+<!-- ✏️ EDIT: Check your profile at https://github.com/munjurdev and keep only earned badges -->
 <!-- 📝 Tiers: Replace -default with -bronze, -silver, or -gold -->
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" title="Pull Shark: 2+ PRs merged" />
@@ -147,16 +156,22 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 </div>
 
 <details>
-<summary>📋 <b>How to customize achievements</b></summary>
+<summary>📋 <b>How to check & customize achievements</b></summary>
 <br>
 
-> **Step 1:** Visit your <a href="https://github.com/munjurdev">GitHub profile</a> to check earned badges.
+> **Step 1:** Visit your <a href="https://github.com/munjurdev">GitHub profile</a> and scroll down to see your earned badges.
 >
-> **Step 2:** Remove badges you haven't earned (delete the `<img>` line).
+> **Step 2:** Keep only badges you've actually earned (delete the `<img>` line for unearned ones).
 >
 > **Step 3:** For earned tiers, replace `-default` with `-bronze`, `-silver`, or `-gold`.
 >
 > **Example:** `achievements/pull-shark-silver.png`
+>
+> **Common achievements:**
+> - **Pull Shark** — merged 2+ pull requests
+> - **Starstruck** — repo with 16+ stars  
+> - **Quickdraw** — closed issue/PR within 5 minutes
+> - **YOLO** — merged PR without code review
 
 </details>
 
