@@ -124,7 +124,7 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 
 <div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="./profile/activity-graph-placeholder.svg" alt="GitHub Activity Graph" width="100%" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="./profile/activity-graph.svg" alt="GitHub Activity Graph" width="100%" /></a>
 
 <!-- 🔄 Auto-replaced with actual graph after first GitHub Action run -->
 
