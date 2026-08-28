@@ -32,6 +32,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/activity-graph.svg
+          # Replace placeholder with actual graph
+          cp profile/activity-graph.svg profile/activity-graph-placeholder.svg
+          # Update README to use actual graph
+          sed -i 's/activity-graph-placeholder.svg/activity-graph.svg/g' README.md
+          git add profile/activity-graph.svg profile/activity-graph-placeholder.svg README.md
           git commit -m "Update activity graph [skip ci]" || exit 0
           git push

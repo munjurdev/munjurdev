@@ -124,7 +124,9 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 
 <div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="./profile/activity-graph.svg" alt="GitHub Activity Graph" width="100%" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="./profile/activity-graph-placeholder.svg" alt="GitHub Activity Graph" width="100%" /></a>
+
+<!-- 🔄 Auto-replaced with actual graph after first GitHub Action run -->
 
 </div>
 
@@ -156,16 +158,14 @@ Comprehensive backend & DevOps infrastructure knowledge base.
 </div>
 
 <details>
-<summary>📋 <b>How to check & customize achievements</b></summary>
+<summary>📋 <b>How it works</b></summary>
 <br>
 
-> **Step 1:** Visit your <a href="https://github.com/munjurdev">GitHub profile</a> and scroll down to see your earned badges.
+> **Auto-update:** This section updates automatically every Sunday via GitHub Actions.
 >
-> **Step 2:** Keep only badges you've actually earned (delete the `<img>` line for unearned ones).
+> **Manual update:** You can also trigger it manually from the Actions tab.
 >
-> **Step 3:** For earned tiers, replace `-default` with `-bronze`, `-silver`, or `-gold`.
->
-> **Example:** `achievements/pull-shark-silver.png`
+> **Customization:** Edit `scripts/check-achievements.sh` to add/remove badges.
 >
 > **Common achievements:**
 > - **Pull Shark** — merged 2+ pull requests

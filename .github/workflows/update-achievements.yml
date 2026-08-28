@@ -1,0 +1,85 @@
+name: Update Achievements
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # Run every Sunday at midnight
+  push:
+    paths:
+      - ".github/workflows/update-achievements.yml"
+  workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  check-achievements:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check Achievements
+        run: |
+          chmod +x scripts/check-achievements.sh
+          bash scripts/check-achievements.sh ${{ github.repository_owner }}
+
+      - name: Update README with Achievements
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            
+            // Read earned badges
+            const badgesFile = 'profile/achievements-badges.txt';
+            if (!fs.existsSync(badgesFile)) {
+              console.log('No badges file found');
+              return;
+            }
+            
+            const earnedBadges = fs.readFileSync(badgesFile, 'utf8').trim();
+            if (!earnedBadges) {
+              console.log('No badges earned yet');
+              return;
+            }
+            
+            // Read README
+            const readmePath = 'README.md';
+            let readme = fs.readFileSync(readmePath, 'utf8');
+            
+            // Achievement badges section pattern
+            const startMarker = '<!-- ✏️ EDIT: Check your profile';
+            const endMarker = '</div>\n\n<details>';
+            
+            const startIdx = readme.indexOf(startMarker);
+            const endIdx = readme.indexOf(endMarker, startIdx);
+            
+            if (startIdx === -1 || endIdx === -1) {
+              console.log('Could not find achievements section in README');
+              return;
+            }
+            
+            // Build new achievements section
+            const newSection = `<!-- ✏️ AUTO-UPDATED by GitHub Actions - Do not edit manually -->
+<!-- 📝 Last updated: ${new Date().toISOString()} -->
+
+${earnedBadges}`;
+            
+            // Replace achievements section
+            const before = readme.substring(0, startIdx);
+            const after = readme.substring(endIdx);
+            const newReadme = before + newSection + after;
+            
+            // Write updated README
+            fs.writeFileSync(readmePath, newReadme);
+            console.log('✅ README updated with earned achievements');
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md profile/achievements-badges.txt
+          git commit -m "Update achievements [skip ci]" || exit 0
+          git push
