@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:161b22&height=220&section=header&text=Munjur%20Alom&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20DevOps&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:161b22&height=220&section=header&text=Munjur%20Alom&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Python%20%7C%20Django%20%7C%20DevOps&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -32,17 +32,15 @@ I build **production-ready backend systems**, **developer tools**, and **scalabl
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Backend** | `Python` `Django` `Django REST Framework` `Celery` |
-| **Databases** | `PostgreSQL` `Redis` |
-| **Realtime** | `WebSockets` `Django Channels` |
-| **DevOps** | `Docker` `Nginx` `Linux` `GitHub Actions` `GitLab CI` |
-| **Cloud** | `AWS` `Kubernetes` `Infrastructure as Code` |
-
-</div>
+| Category                   | Technologies                                                     |
+| -------------------------- | ---------------------------------------------------------------- |
+| **Backend**                | `Python` · `Django` · `Django REST Framework`                    |
+| **Databases**              | `PostgreSQL` · `MySQL`                                           |
+| **Cache & Messaging**      | `Redis`                                                          |
+| **Background Tasks**       | `Celery` · `Celery Beat`                                         |
+| **Realtime**               | `WebSockets` · `Django Channels`                                 |
+| **DevOps & CI/CD**         | `Docker` · `Nginx` · `Linux` · `GitHub Actions` · `GitLab CI/CD` |
+| **Cloud & Infrastructure** | `AWS` · `Kubernetes` · `Infrastructure as Code`                  |
 
 ---
 
