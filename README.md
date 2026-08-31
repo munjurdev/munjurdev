@@ -97,12 +97,16 @@ Real-world Django deployment knowledge base.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=munjurdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_radius=10&include_all_commits=true" />
-<a href="https://github.com/munjurdev?tab=repositories"><img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=munjurdev&layout=pie&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=4&hide=false" /></a>
-
-</div>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=munjurdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_radius=10&include_all_commits=true" />
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/munjurdev?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=munjurdev&layout=pie&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=4&hide=false" /></a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -141,15 +145,12 @@ Real-world Django deployment knowledge base.
 
 <div align="center">
 
-<!-- ✏️ EDIT: Check your profile at https://github.com/munjurdev and keep only earned badges -->
-<!-- 📝 Tiers: Replace -default with -bronze, -silver, or -gold -->
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" title="Pull Shark: 2+ PRs merged" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" height="60" alt="Galaxy Brain" title="Galaxy Brain: 2+ accepted answers" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="Starstruck" title="Starstruck: 16+ stars" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" title="Quickdraw: Closed in 5 min" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored PR" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="YOLO" title="YOLO: Merged without review" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="yolo" title="yolo" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="starstruck" title="starstruck" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" height="60" alt="galaxy-brain" title="galaxy-brain" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="pair-extraordinaire" title="pair-extraordinaire" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="pull-shark" title="pull-shark" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="quickdraw" title="quickdraw" />
 
 </div>
 
