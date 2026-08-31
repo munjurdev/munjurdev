@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit activity graph
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Munjur Alom"
+          git config user.email "munjurdev@gmail.com"
           # Replace placeholder with actual graph
           cp profile/activity-graph.svg profile/activity-graph-placeholder.svg
           # Update README to use actual graph
