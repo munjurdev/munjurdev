@@ -100,7 +100,7 @@ Real-world Django deployment knowledge base.
 <div align="center">
 
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=munjurdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_radius=10&include_all_commits=true" />
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=munjurdev&layout=pie&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=4&hide=false" />
+<a href="https://github.com/munjurdev?tab=repositories"><img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=munjurdev&layout=pie&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=4&hide=false" /></a>
 
 </div>
 
