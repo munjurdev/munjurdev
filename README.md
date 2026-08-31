@@ -100,7 +100,7 @@ Real-world Django deployment knowledge base.
 <div align="center">
 
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=munjurdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_radius=10&include_all_commits=true" />
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=munjurdev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munjurdev&layout=donut&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=3" />
 
 </div>
 
@@ -120,7 +120,7 @@ Real-world Django deployment knowledge base.
 
 <div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="./profile/activity-graph.svg" alt="GitHub Activity Graph" width="100%" /></a>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=munjurdev"><img src="https://github-readme-activity-graph.vercel.app/graph?username=munjurdev&theme=github&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" width="100%" /></a>
 
 <!-- 🔄 Auto-replaced with actual graph after first GitHub Action run -->
 
