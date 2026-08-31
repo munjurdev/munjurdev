@@ -139,40 +139,7 @@ Real-world Django deployment knowledge base.
 
 </details>
 
----
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="yolo" title="yolo" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="starstruck" title="starstruck" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" height="60" alt="galaxy-brain" title="galaxy-brain" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="pair-extraordinaire" title="pair-extraordinaire" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="pull-shark" title="pull-shark" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="quickdraw" title="quickdraw" />
-
-</div>
-
-<details>
-<summary>📋 <b>How it works</b></summary>
-<br>
-
-> **Auto-update:** This section updates automatically every Sunday via GitHub Actions.
->
-> **Manual update:** You can also trigger it manually from the Actions tab.
->
-> **Customization:** Edit `scripts/check-achievements.sh` to add/remove badges.
->
-> **Common achievements:**
-> - **Pull Shark** — merged 2+ pull requests
-> - **Starstruck** — repo with 16+ stars  
-> - **Quickdraw** — closed issue/PR within 5 minutes
-> - **YOLO** — merged PR without code review
-
-</details>
-
----
 
 ## 📫 Connect With Me
 
