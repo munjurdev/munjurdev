@@ -82,39 +82,46 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 
 **[AlienTek Automation](https://alientekautomation.com/)**<br>
 <sub>Smart Industrial Automation</sub><br><br>
+<td valign="top">
+
+- PLC programming, control panel design, and industrial electrical services
+- SCADA & HMI development
+- Industrial control panel design
+- VFD installation & commissioning
+- Machine automation & retrofit
+- Maintenance & AMC services
+![Omron](https://img.shields.io/badge/Omron-Sensors-FF6600?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**[AlienTek Automation](https://alientekautomation.com/)**
+<sub>Web Application</sub><br><br>
 [![Website](https://img.shields.io/badge/Website-238636?style=flat-square&labelColor=0d1117)](https://alientekautomation.com/)
 
 </td>
 <td valign="top">
 
-- PLC programming, control panel design, and industrial electrical services
-- SCADA & HMI development
-- Industrial control panel design
-- VFD installation & commissioning
-- Machine automation & retrofit
-- Maintenance & AMC services
-- Industrial automation product supply from global brands (FATEK, Siemens, Schneider, Delta, Omron)
+- Django-based web application for industrial automation management
+- Client dashboard for monitoring and controlling automation systems
+- Real-time data visualization and reporting
+- User authentication and role-based access control
+- Integration with FATEK PLC and other industrial devices
+- SCADA/HMI data ingestion and processing
+- VFD parameter management and monitoring
+- Maintenance tracking and AMC service management
+- Product inventory and supply chain tracking
 
 </td>
 <td valign="top">
 
-![FATEK](https://img.shields.io/badge/FATEK-FATEK%20PLC-009999?style=flat-square)
-![Siemens](https://img.shields.io/badge/Siemens-HMI-0066CC?style=flat-square)
-![Shihlin](https://img.shields.io/badge/Shihlin-VFD-66CC00?style=flat-square)
-![Delta](https://img.shields.io/badge/Delta-VFD-0099CC?style=flat-square)
-![Schneider](https://img.shields.io/badge/Schneider-VFD-0066CC?style=flat-square)
-![Omron](https://img.shields.io/badge/Omron-Sensors-FF6600?style=flat-square)
-
-</td>
-<td valign="top">
-
-- PLC programming, control panel design, and industrial electrical services
-- SCADA & HMI development
-- Industrial control panel design
-- VFD installation & commissioning
-- Machine automation & retrofit
-- Maintenance & AMC services
-![Omron](https://img.shields.io/badge/Omron-Sensors-FF6600?style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DB-DC322F?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-36ACE5?style=flat-square&logo=celery&logoColor=white)
 
 </td>
 </tr>
