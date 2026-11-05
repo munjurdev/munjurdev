@@ -160,8 +160,8 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC322F?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-36ACE5?style=flat-square&logo=celery&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
 
 </td>
 </tr>
