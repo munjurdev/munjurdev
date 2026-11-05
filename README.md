@@ -7,8 +7,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=munjurdev&label=Profile%20Views&color=blueviolet&style=flat-square)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-9-238636?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
-![Private Repos](https://img.shields.io/badge/Private%20Repos-15%2B-8957e5?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmunjurdev&query=$.public_repos&label=Public%20Repos&color=238636&style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-238636?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collab-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 
@@ -20,15 +19,18 @@
 
 > 🚀 Backend Engineer | Python | Django
 
-I build **production-ready backend systems**, **developer tools**, and **scalable infrastructure**. Creator of [djboost](https://pypi.org/project/djboost/) — a PyPI-published CLI for Django.
+I build **production-ready backend systems**, **developer tools**, and **AI-powered platforms**. Author of two PyPI-published CLIs — [djboost](https://pypi.org/project/djboost/) (Django) and [mforege](https://pypi.org/project/mforege/) (AI agent).
 
-- 🔧 Building **[djboost](https://github.com/munjurdev/djboost)** — Production CLI for Django (PyPI published)
-- 📚 Maintaining **[deployment-guide](https://github.com/munjurdev/deployment-guide)** — Real-world deployment knowledge
+- 🏢 Shipped **3 live platforms** — Simfrii (eSIM), StreamLab (AI film), Bridges of Glory
+- 🔧 Building **[djboost](https://github.com/munjurdev/djboost)** — Django lifecycle CLI (PyPI)
+- 🤖 Building **[MForege](https://github.com/munjurdev/MForege)** — AI agent CLI (PyPI)
+- 🎬 Building **[CineForge-AI](https://github.com/munjurdev/CineForge-AI)** — local AI video generation
+- 📚 Maintaining **[deployment-guide](https://github.com/munjurdev/deployment-guide)** — real-world deployment knowledge
 - 🎯 Focus: **Clean Architecture** · **API Design** · **CI/CD** · **Developer Experience**
 
 ### 🌱 Currently Exploring
 
-`Kubernetes` `Infrastructure as Code` `System Design` `Multi-tenancy` `Event-driven Architecture`
+`System Design` `Multi-tenancy` `Event-driven Architecture`
 
 ---
 
@@ -43,6 +45,8 @@ I build **production-ready backend systems**, **developer tools**, and **scalabl
 | **Cache & Messaging** | `Redis` |
 | **Background Tasks** | `Celery` · `Celery Beat` |
 | **Realtime** | `WebSockets` · `Django Channels` |
+| **AI / LLM** | `LLM Agents` · `OpenAI API` · `OpenRouter` · `Ollama` |
+| **Integrations** | `Stripe` · `PayPal` · `eSIM Provider APIs` |
 | **DevOps & CI/CD** | `Docker` · `Nginx` · `Linux` · `GitHub Actions` · `GitLab CI/CD` |
 | **Cloud & Infrastructure** | `AWS` · `Kubernetes` · `Infrastructure as Code` |
 
@@ -170,6 +174,58 @@ Production CLI for Django — scaffolding, features, and deployment.
 
 </td>
 <td width="50%">
+
+### 🤖 [MForege](https://github.com/munjurdev/MForege)
+Personal AI agent CLI — tools, memory, and an IDE-style terminal UI.
+
+**What it does:**
+- Agent with file/shell tools, mission plans, and live colored diffs
+- Long-term memory, session persistence, and an IDE-style prompt UI
+- Pluggable backends: OpenAI, Ollama (local), OpenRouter, any OpenAI-compatible API
+
+[![PyPI](https://img.shields.io/pypi/v/mforege?color=3776AB&logo=pypi&logoColor=white&style=flat-square)](https://pypi.org/project/mforege/)
+![Stars](https://img.shields.io/github/stars/munjurdev/MForege?style=social)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 [ChatWave](https://github.com/munjurdev/ChatWave)
+Real-time messaging platform on Django Channels.
+
+**What it does:**
+- Private & group chats over persistent WebSockets (Channels + Redis)
+- Voice notes, file sharing, reactions, read receipts, typing indicators
+- Email verification, user blocking/reporting, and dark/light themes
+
+![Stars](https://img.shields.io/github/stars/munjurdev/ChatWave?style=social)
+![Python](https://img.shields.io/badge/Python-3.13%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-6.0-092E20?style=flat-square&logo=django&logoColor=white)
+![Channels](https://img.shields.io/badge/Channels-4.2-4CAF50?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🎬 [CineForge-AI](https://github.com/munjurdev/CineForge-AI)
+Local AI video generation platform — no paid APIs or cloud credits.
+
+**What it does:**
+- Prompt-to-video generation with local open-source AI models
+- Modular inference adapter (ComfyUI API) in front of a Django app
+- Celery + Redis background jobs, FFmpeg processing, GPU-efficient pipeline
+
+![Stars](https://img.shields.io/github/stars/munjurdev/CineForge-AI?style=social)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-36ACE5?style=flat-square&logo=celery&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
 
 ### 📚 [deployment-guide](https://github.com/munjurdev/deployment-guide)
 Real-world Django deployment knowledge base.
