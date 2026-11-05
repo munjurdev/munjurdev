@@ -47,7 +47,7 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 | **Background Tasks** | `Celery` · `Celery Beat` |
 | **Realtime** | `WebSockets` · `Django Channels` |
 | **AI / LLM** | `LLM Agents` · `OpenAI API` · `OpenRouter` · `Ollama` |
-| **Integrations** | `Stripe` · `PayPal` · `eSIM Provider APIs` |
+| **Integrations** | `Stripe` · `PayPal` · `eSIM Provider APIs` · `FATEK PLC` · `Siemens HMI` · `Shihlin VFD` · `Delta VFD` · `Schneider VFD` · `Omron Sensors` |
 | **DevOps & CI/CD** | `Docker` · `Nginx` · `Linux` · `GitHub Actions` · `GitLab CI/CD` |
 | **Cloud & Infrastructure** | `AWS` · `Kubernetes` · `Infrastructure as Code` |
 
