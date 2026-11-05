@@ -22,7 +22,7 @@
 I build **production-ready backend systems**, **developer tools**, and **AI-powered platforms**. Author of two PyPI-published CLIs — [djboost](https://pypi.org/project/djboost/) (Django) and [mforege](https://pypi.org/project/mforege/) (AI agent).
 
 - 🏢 Shipped **20+ production projects** for **B2B and B2C** clients across SaaS, e-commerce, healthcare, education, travel booking, eSIM, film streaming, dating, and news portals
-- 🌟 Flagship live builds: **Simfrii** (eSIM) · **StreamLab** (AI film) · **Walking Witness** (charity)
+- 🌟 Flagship live builds: **Simfrii** (eSIM) · **StreamLab** (AI film) · **Walking Witness** (charity) · **AlienTek** (industrial automation web app)
 - 🔧 Building **[djboost](https://github.com/munjurdev/djboost)** — Django lifecycle CLI (PyPI)
 - 🤖 Building **[MForege](https://github.com/munjurdev/MForege)** — AI agent CLI (PyPI)
 - 🎬 Building **[CineForge-AI](https://github.com/munjurdev/CineForge-AI)** — local AI video generation
@@ -47,7 +47,7 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 | **Background Tasks** | `Celery` · `Celery Beat` · `Gunicorn` |
 | **Realtime** | `WebSockets` · `Django Channels` |
 | **AI / LLM** | `LLM Agents` · `OpenAI API` · `OpenRouter` · `Ollama` |
-| **Integrations** | `Stripe` · `PayPal` · `eSIM Provider APIs` · `FATEK PLC` · `Siemens HMI` · `Shihlin VFD` · `Delta VFD` · `Schneider VFD` · `Omron Sensors` · `Django` · `Python` · `PostgreSQL` |
+| **Integrations** | `Stripe` · `PayPal` · `eSIM Provider APIs` |
 | **DevOps & CI/CD** | `Docker` · `Nginx` · `Linux` · `GitHub Actions` · `GitLab CI/CD` |
 | **Cloud & Infrastructure** | `AWS` · `Kubernetes` · `Infrastructure as Code` |
 
@@ -59,14 +59,9 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 
 <div align="center">
 
-*Three flagship builds from 20+ production projects I have designed and shipped — backend APIs, payments, and third-party integrations.*
-
-### AlienTek Automation
-
+*Four flagship builds from 20+ production projects I have designed and shipped — backend APIs, payments, and third-party integrations.*
 
 <table>
-</tr>
-
 <tr>
 <td valign="top">
 
@@ -153,27 +148,26 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 </td>
 <td valign="top">
 
-- Django-based web application for industrial automation management
-- Client dashboard for monitoring and controlling automation systems
-- Real-time data visualization and reporting
-- User authentication and role-based access control
-- Integration with FATEK PLC and other industrial devices
-- SCADA/HMI data ingestion and processing
-- VFD parameter management and monitoring
-- Maintenance tracking and AMC service management
-- Product inventory and supply chain tracking
+- Full-stack **Django web application** built for an industrial automation client
+- Client and admin dashboards with role-based access control
+- Service, maintenance, and AMC workflow management
+- Product inventory and supply-chain tracking
+- Real-time reporting that visualizes machine data from the client's PLC/HMI/VFD equipment
+- REST APIs, PostgreSQL data layer, and Redis/Celery background jobs
 
 </td>
 <td valign="top">
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DB-DC322F?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC322F?style=flat-square&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-36ACE5?style=flat-square&logo=celery&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
