@@ -7,7 +7,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=munjurdev&label=Profile%20Views&color=blueviolet&style=flat-square)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-4-238636?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-9-238636?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 ![Private Repos](https://img.shields.io/badge/Private%20Repos-15%2B-8957e5?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-238636?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collab-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
@@ -56,7 +56,100 @@ I build **production-ready backend systems**, **developer tools**, and **scalabl
 
 ---
 
-## 📌 Featured Projects
+## 🏢 Production Projects
+
+<div align="center">
+
+*Live platforms I have designed and shipped — backend APIs, payments, and third-party integrations.*
+
+</div>
+
+<table>
+<tr>
+<th align="left" width="24%">Project</th>
+<th align="left" width="46%">Key Contributions</th>
+<th align="left" width="30%">Stack</th>
+</tr>
+<tr>
+<td valign="top">
+
+**[📶 Simfrii](https://simfrii.com/)**<br>
+<sub>Multi-Provider eSIM Platform</sub><br><br>
+[![Live](https://img.shields.io/badge/Live-238636?style=flat-square&labelColor=0d1117)](https://simfrii.com/)
+
+</td>
+<td valign="top">
+
+- Integrated **5 eSIM providers** — Airalo, Nomad, Ubigi, Maya Mobile, Yesim
+- Unified API for plans, pricing, and provider-specific availability
+- Consistent response contracts across all external providers
+- Real-time chat & support system for faster issue resolution
+
+</td>
+<td valign="top">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4CAF50?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[🎬 StreamLab](https://beta.jusb.io/)**<br>
+<sub>AI Film Monetization Platform</sub><br><br>
+[![Live](https://img.shields.io/badge/Live-238636?style=flat-square&labelColor=0d1117)](https://beta.jusb.io/)
+
+</td>
+<td valign="top">
+
+- **50+ REST endpoints** for users, content, payments, and platform workflows
+- Rent, sell, and subscription models with wallet balances and withdrawals
+- **Stripe + PayPal** payments and AWS S3 media storage
+- AI features: video generation, image generation, and script analysis
+
+</td>
+<td valign="top">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-s3&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[⛪ Bridges of Glory](https://play.google.com/store/apps/details?id=com.bridgesofglory.app)**<br>
+<sub>Donation & Charity Platform</sub><br><br>
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.bridgesofglory.app)
+
+</td>
+<td valign="top">
+
+- Backend APIs to discover charity projects and make donations
+- **Stripe** integration for secure online payment processing
+- Donation tracking, transaction history, and financial records
+- Secure, scalable APIs for frontend and mobile clients
+
+</td>
+<td valign="top">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Open Source Projects
 
 <table>
 <tr>
@@ -87,7 +180,7 @@ Real-world Django deployment knowledge base.
 - Security hardening, monitoring, troubleshooting
 
 ![Stars](https://img.shields.io/github/stars/munjurdev/deployment-guide?style=social)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white&link=https://munjurdev.github.io/deployment-guide)
+[![GitHub Pages](https://img.shields.io/badge/Read_Online-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://munjurdev.github.io/deployment-guide)
 
 </td>
 </tr>
@@ -114,7 +207,7 @@ Real-world Django deployment knowledge base.
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="70%" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="70%" /></a>
 
 </div>
 
@@ -125,8 +218,6 @@ Real-world Django deployment knowledge base.
 <div align="center">
 
 <img src="./profile/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
-
-<!-- 🔄 Auto-replaced with actual graph after first GitHub Action run -->
 
 </div>
 
@@ -139,16 +230,19 @@ Real-world Django deployment knowledge base.
 
 </details>
 
-
+---
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:munjurdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munjurdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munjurdev)
-[![Website](https://img.shields.io/badge/Website-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://munjurdev.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munjurdev)
+
+<!-- Website badge parked until munjurdev.com resolves:
+[![Website](https://img.shields.io/badge/Website-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://munjurdev.com)
+-->
 
 </div>
 
