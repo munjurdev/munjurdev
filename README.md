@@ -61,6 +61,14 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 
 *Three flagship builds from 20+ production projects I have designed and shipped — backend APIs, payments, and third-party integrations.*
 
+### AlienTek Automation
+
+<div align="center">
+
+*Dhaka-based industrial automation and electrical engineering company providing smart, reliable and cost-effective automation solutions for factories and industrial plants.*
+
+</div>
+
 </div>
 
 <table>
@@ -72,25 +80,41 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 <tr>
 <td valign="top">
 
-**[📶 Simfrii](https://simfrii.com/)**<br>
-<sub>Multi-Provider eSIM Platform</sub><br><br>
-[![Live](https://img.shields.io/badge/Live-238636?style=flat-square&labelColor=0d1117)](https://simfrii.com/)
+**[AlienTek Automation](https://alientekautomation.com/)**<br>
+<sub>Smart Industrial Automation</sub><br><br>
+[![Website](https://img.shields.io/badge/Website-238636?style=flat-square&labelColor=0d1117)](https://alientekautomation.com/)
 
 </td>
 <td valign="top">
 
-- Integrated **5 eSIM providers** — Airalo, Nomad, Ubigi, Maya Mobile, Yesim
-- Unified API for plans, pricing, and provider-specific availability
-- Consistent response contracts across all external providers
-- Real-time chat & support system for faster issue resolution
+- PLC programming, control panel design, and industrial electrical services
+- SCADA & HMI development
+- Industrial control panel design
+- VFD installation & commissioning
+- Machine automation & retrofit
+- Maintenance & AMC services
+- Industrial automation product supply from global brands (FATEK, Siemens, Schneider, Delta, Omron)
 
 </td>
 <td valign="top">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-4CAF50?style=flat-square&logo=socketdotio&logoColor=white)
+![FATEK](https://img.shields.io/badge/FATEK-FATEK%20PLC-009999?style=flat-square)
+![Siemens](https://img.shields.io/badge/Siemens-HMI-0066CC?style=flat-square)
+![Shihlin](https://img.shields.io/badge/Shihlin-VFD-66CC00?style=flat-square)
+![Delta](https://img.shields.io/badge/Delta-VFD-0099CC?style=flat-square)
+![Schneider](https://img.shields.io/badge/Schneider-VFD-0066CC?style=flat-square)
+![Omron](https://img.shields.io/badge/Omron-Sensors-FF6600?style=flat-square)
+
+</td>
+<td valign="top">
+
+- PLC programming, control panel design, and industrial electrical services
+- SCADA & HMI development
+- Industrial control panel design
+- VFD installation & commissioning
+- Machine automation & retrofit
+- Maintenance & AMC services
+![Omron](https://img.shields.io/badge/Omron-Sensors-FF6600?style=flat-square)
 
 </td>
 </tr>
