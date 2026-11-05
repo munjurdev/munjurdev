@@ -21,7 +21,7 @@
 
 I build **production-ready backend systems**, **developer tools**, and **AI-powered platforms**. Author of two PyPI-published CLIs — [djboost](https://pypi.org/project/djboost/) (Django) and [mforege](https://pypi.org/project/mforege/) (AI agent).
 
-- 🏢 Shipped **3 live platforms** — Simfrii (eSIM), StreamLab (AI film), Bridges of Glory
+- 🏢 Shipped **3 live platforms** — Simfrii (eSIM), StreamLab (AI film), Bridges of Glory (Walking Witness)
 - 🔧 Building **[djboost](https://github.com/munjurdev/djboost)** — Django lifecycle CLI (PyPI)
 - 🤖 Building **[MForege](https://github.com/munjurdev/MForege)** — AI agent CLI (PyPI)
 - 🎬 Building **[CineForge-AI](https://github.com/munjurdev/CineForge-AI)** — local AI video generation
@@ -49,12 +49,6 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 | **Integrations** | `Stripe` · `PayPal` · `eSIM Provider APIs` |
 | **DevOps & CI/CD** | `Docker` · `Nginx` · `Linux` · `GitHub Actions` · `GitLab CI/CD` |
 | **Cloud & Infrastructure** | `AWS` · `Kubernetes` · `Infrastructure as Code` |
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-36ACE5?style=for-the-badge&logo=celery&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-4CAF50?style=for-the-badge&logo=socketdotio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -120,15 +114,15 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-s3&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**[⛪ Bridges of Glory](https://play.google.com/store/apps/details?id=com.bridgesofglory.app)**<br>
-<sub>Donation & Charity Platform</sub><br><br>
+**[⛪ Walking Witness](https://play.google.com/store/apps/details?id=com.bridgesofglory.app)**<br>
+<sub>by Bridges of Glory · Donation & Charity Platform</sub><br><br>
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.bridgesofglory.app)
 
 </td>
@@ -249,7 +243,7 @@ Real-world Django deployment knowledge base.
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-stats-extended.vercel.app/api?username=munjurdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_radius=10&include_all_commits=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=munjurdev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_radius=10&include_all_commits=true&hide=prs,issues,contribs" />
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/munjurdev?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=munjurdev&layout=pie&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=4&hide=false" /></a>
@@ -276,15 +270,6 @@ Real-world Django deployment knowledge base.
 <img src="./profile/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
 
 </div>
-
-<details>
-<summary>📋 <b>How it works</b></summary>
-<br>
-
-> This graph updates automatically every 12 hours via GitHub Actions.
-> It shows your coding activity over the last 31 days.
-
-</details>
 
 ---
 
