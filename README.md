@@ -21,7 +21,7 @@
 
 I build **production-ready backend systems**, **developer tools**, and **AI-powered platforms**. Author of two PyPI-published CLIs — [djboost](https://pypi.org/project/djboost/) (Django) and [mforege](https://pypi.org/project/mforege/) (AI agent).
 
-- 🏢 Shipped **20+ production projects** for clients — eSIM, AI film, charity tech, and SaaS
+- 🏢 Shipped **20+ production projects** for **B2B and B2C** clients across SaaS, e-commerce, healthcare, education, travel booking, eSIM, film streaming, dating, and news portals
 - 🌟 Flagship live builds: **Simfrii** (eSIM) · **StreamLab** (AI film) · **Walking Witness** (charity)
 - 🔧 Building **[djboost](https://github.com/munjurdev/djboost)** — Django lifecycle CLI (PyPI)
 - 🤖 Building **[MForege](https://github.com/munjurdev/MForege)** — AI agent CLI (PyPI)
