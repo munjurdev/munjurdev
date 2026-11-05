@@ -142,18 +142,18 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 <td valign="top">
 
 **[AlienTek Automation](https://alientekautomation.com/)**
-<sub>Industrial Automation & Engineering Management Platform</sub><br><br>
+<sub>Industrial Automation Company · Website & Staff Dashboard</sub><br><br>
 [![Website](https://img.shields.io/badge/Website-238636?style=flat-square&labelColor=0d1117)](https://alientekautomation.com/)
 
 </td>
 <td valign="top">
 
-- Full-stack **Django web application** built for an industrial automation client
-- Client and admin dashboards with role-based access control
-- Service, maintenance, and AMC workflow management
-- Product inventory and supply-chain tracking
-- Real-time reporting that visualizes machine data from the client's PLC/HMI/VFD equipment
-- REST APIs, PostgreSQL data layer, and Redis/Celery background jobs
+- Full-stack **Django web application** built for an industrial automation company in Dhaka
+- Public site: services, brand-wise product catalog, projects, clients, and about pages
+- Product catalog spanning Siemens, Omron, Schneider, Delta, FATEK, and Shihlin equipment
+- Enquiry form with service selection and CSRF-protected server-side handling
+- Custom staff login and admin dashboard (`/dashboard/`) plus Django admin for managing content and enquiries
+- Server-rendered templates, WhiteNoise static handling, hardened response headers; deployed on Render with Gunicorn
 
 </td>
 <td valign="top">
