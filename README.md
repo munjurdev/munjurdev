@@ -41,13 +41,13 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 
 | Category | Technologies |
 |:---------|:-------------|
-| **Backend** | `Python` · `Django` · `Django REST Framework` |
-| **Databases** | `PostgreSQL` · `MySQL` |
-| **Cache & Messaging** | `Redis` |
-| **Background Tasks** | `Celery` · `Celery Beat` |
+| **Backend** | `Python` · `Django` · `Django REST Framework` · `Celery` |
+| **Databases** | `PostgreSQL` · `MySQL` · `SQLite` |
+| **Cache & Messaging** | `Redis` · `Celery` |
+| **Background Tasks** | `Celery` · `Celery Beat` · `Gunicorn` |
 | **Realtime** | `WebSockets` · `Django Channels` |
 | **AI / LLM** | `LLM Agents` · `OpenAI API` · `OpenRouter` · `Ollama` |
-| **Integrations** | `Stripe` · `PayPal` · `eSIM Provider APIs` · `FATEK PLC` · `Siemens HMI` · `Shihlin VFD` · `Delta VFD` · `Schneider VFD` · `Omron Sensors` |
+| **Integrations** | `Stripe` · `PayPal` · `eSIM Provider APIs` · `FATEK PLC` · `Siemens HMI` · `Shihlin VFD` · `Delta VFD` · `Schneider VFD` · `Omron Sensors` · `Django` · `Python` · `PostgreSQL` |
 | **DevOps & CI/CD** | `Docker` · `Nginx` · `Linux` · `GitHub Actions` · `GitLab CI/CD` |
 | **Cloud & Infrastructure** | `AWS` · `Kubernetes` · `Infrastructure as Code` |
 
