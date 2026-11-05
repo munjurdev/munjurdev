@@ -72,56 +72,30 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 </div>
 
 <table>
-<tr>
-<th align="left" width="24%">Project</th>
-<th align="left" width="46%">Key Contributions</th>
-<th align="left" width="30%">Stack</th>
-</tr>
-<tr>
-<td valign="top">
-
-**[AlienTek Automation](https://alientekautomation.com/)**<br>
-<sub>Smart Industrial Automation</sub><br><br>
-<td valign="top">
-
-- PLC programming, control panel design, and industrial electrical services
-- SCADA & HMI development
-- Industrial control panel design
-- VFD installation & commissioning
-- Machine automation & retrofit
-- Maintenance & AMC services
-![Omron](https://img.shields.io/badge/Omron-Sensors-FF6600?style=flat-square)
-
-</td>
 </tr>
 
 <tr>
 <td valign="top">
 
-**[AlienTek Automation](https://alientekautomation.com/)**
-<sub>Web Application</sub><br><br>
-[![Website](https://img.shields.io/badge/Website-238636?style=flat-square&labelColor=0d1117)](https://alientekautomation.com/)
+**[Simfrii](https://simfrii.com/)**
+<sub>Multi-Provider eSIM Platform</sub><br><br>
+[![Live](https://img.shields.io/badge/Live-238636?style=flat-square&labelColor=0d1117)](https://simfrii.com/)
 
 </td>
 <td valign="top">
 
-- Django-based web application for industrial automation management
-- Client dashboard for monitoring and controlling automation systems
-- Real-time data visualization and reporting
-- User authentication and role-based access control
-- Integration with FATEK PLC and other industrial devices
-- SCADA/HMI data ingestion and processing
-- VFD parameter management and monitoring
-- Maintenance tracking and AMC service management
-- Product inventory and supply chain tracking
+- Integrated **5 eSIM providers** — Airalo, Nomad, Ubigi, Maya Mobile, Yesim
+- Unified API for plans, pricing, and provider-specific availability
+- Consistent response contracts across all external providers
+- Real-time chat & support system for faster issue resolution
 
 </td>
 <td valign="top">
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DB-DC322F?style=flat-square)
-![Celery](https://img.shields.io/badge/Celery-36ACE5?style=flat-square&logo=celery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4CAF50?style=flat-square&logo=socketdotio&logoColor=white)
 
 </td>
 </tr>
@@ -172,6 +146,37 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 ![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**[AlienTek Automation](https://alientekautomation.com/)**
+<sub>Web Application</sub><br><br>
+[![Website](https://img.shields.io/badge/Website-238636?style=flat-square&labelColor=0d1117)](https://alientekautomation.com/)
+
+</td>
+<td valign="top">
+
+- Django-based web application for industrial automation management
+- Client dashboard for monitoring and controlling automation systems
+- Real-time data visualization and reporting
+- User authentication and role-based access control
+- Integration with FATEK PLC and other industrial devices
+- SCADA/HMI data ingestion and processing
+- VFD parameter management and monitoring
+- Maintenance tracking and AMC service management
+- Product inventory and supply chain tracking
+
+</td>
+<td valign="top">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DB-DC322F?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-36ACE5?style=flat-square&logo=celery&logoColor=white)
 
 </td>
 </tr>
