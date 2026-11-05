@@ -65,7 +65,22 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 
 <div align="center">
 
-*Dhaka-based industrial automation and electrical engineering company providing smart, reliable and cost-effective automation solutions for factories and industrial plants.*
+*AlienTek Automation — Industrial Automation & Engineering Management Platform*
+
+A full-stack web application developed for an industrial automation and electrical engineering company. The platform provides a centralized digital solution for managing industrial automation services, client operations, equipment information, maintenance activities, and business workflows.
+
+Developed the complete frontend and backend, including responsive user interfaces, server-side business logic, database management, authentication, and deployment.
+
+**Key Features**:
+- Client and administrative dashboards
+- User authentication and role-based access control (RBAC)
+- Industrial automation service management
+- Real-time data visualization and reporting
+- PLC and SCADA/HMI integration support
+- VFD parameter monitoring and management
+- Maintenance and Annual Maintenance Contract (AMC) management
+- Product inventory and supply chain management
+- Responsive and user-friendly interface*
 
 </div>
 
@@ -154,7 +169,7 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 <td valign="top">
 
 **[AlienTek Automation](https://alientekautomation.com/)**
-<sub>Web Application</sub><br><br>
+<sub>Industrial Automation & Engineering Management Platform</sub><br><br>
 [![Website](https://img.shields.io/badge/Website-238636?style=flat-square&labelColor=0d1117)](https://alientekautomation.com/)
 
 </td>
