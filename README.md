@@ -63,28 +63,6 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 
 ### AlienTek Automation
 
-<div align="center">
-
-*AlienTek Automation — Industrial Automation & Engineering Management Platform*
-
-A full-stack web application developed for an industrial automation and electrical engineering company. The platform provides a centralized digital solution for managing industrial automation services, client operations, equipment information, maintenance activities, and business workflows.
-
-Developed the complete frontend and backend, including responsive user interfaces, server-side business logic, database management, authentication, and deployment.
-
-**Key Features**:
-- Client and administrative dashboards
-- User authentication and role-based access control (RBAC)
-- Industrial automation service management
-- Real-time data visualization and reporting
-- PLC and SCADA/HMI integration support
-- VFD parameter monitoring and management
-- Maintenance and Annual Maintenance Contract (AMC) management
-- Product inventory and supply chain management
-- Responsive and user-friendly interface*
-
-</div>
-
-</div>
 
 <table>
 </tr>
