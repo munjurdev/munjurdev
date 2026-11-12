@@ -22,7 +22,7 @@
 I build **production-ready backend systems**, **developer tools**, and **AI-powered platforms**. Author of two PyPI-published CLIs — [djboost](https://pypi.org/project/djboost/) (Django) and [mforege](https://pypi.org/project/mforege/) (AI agent).
 
 - 🏢 Shipped **20+ production projects** for **B2B and B2C** clients across SaaS, e-commerce, healthcare, education, travel booking, eSIM, film streaming, and news portals
-- 🌟 Flagship live builds: **Simfrii** (eSIM) · **StreamLab** (AI film) · **Walking Witness** (charity) · **AlienTek** (industrial automation web app)
+- 🌟 Flagship live builds: **Simfrii** (eSIM) · **StreamLab** (AI film) · **CS Bazar** (e-commerce) · **Walking Witness** (charity) · **AlienTek** (industrial automation web app)
 - 🔧 Building **[djboost](https://github.com/munjurdev/djboost)** — Django lifecycle CLI (PyPI)
 - 🤖 Building **[MForege](https://github.com/munjurdev/MForege)** — AI agent CLI (PyPI)
 - 🎬 Building **[CineForge-AI](https://github.com/munjurdev/CineForge-AI)** — local AI video generation
@@ -59,7 +59,7 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 
 <div align="center">
 
-*Four flagship builds from 20+ production projects I have designed and shipped — backend APIs, payments, and third-party integrations.*
+*Five flagship builds from 20+ production projects I have designed and shipped — backend APIs, payments, and third-party integrations.*
 
 <table>
 <tr>
@@ -162,6 +162,31 @@ I build **production-ready backend systems**, **developer tools**, and **AI-powe
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[CS Bazar](https://csbazar.com/)**
+<sub>Online Shop · Full-Stack Django E-commerce</sub><br><br>
+[![Live](https://img.shields.io/badge/Live-238636?style=flat-square&labelColor=0d1117)](https://csbazar.com/)
+
+</td>
+<td valign="top">
+
+- Full-stack **Django storefront** — catalog, category browsing, search, cart, and checkout
+- Merchandising sections: new arrivals, best sellers, flash sale, and daily deals
+- Product pages with ratings, reviews, discount pricing, and live stock status
+- **Cash-on-delivery** checkout with 7-day returns and nationwide delivery across Bangladesh
+- Customer accounts for order tracking, favourites, and resumable checkout
+
+</td>
+<td valign="top">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![E-commerce](https://img.shields.io/badge/E--commerce-238636?style=flat-square)
 
 </td>
 </tr>
